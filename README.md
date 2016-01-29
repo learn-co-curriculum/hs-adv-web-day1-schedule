@@ -15,4 +15,4 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 [Lesson Plan](https://docs.google.com/a/flatironschool.com/document/d/1qbo9KnW6bqhmbQenuOD09-mNgSPwoY1hOzH36Vn4Gw0/edit)
 
-<a href='https://learn.co/lessons/hs-adv-web-day1-schedule' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-adv-web-day1-schedule' title='Advanced Web Design - Schedule'>Advanced Web Design - Schedule</a> on Learn.co and start learning to code for free.</p>
